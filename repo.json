@@ -1,0 +1,9 @@
+{
+  "name": "Rheno LaMovie",
+  "description": "la.movie - Spanish movies via Vimeo",
+  "icon": "https://via.placeholder.com/128?text=LM",
+  "providerClasses": [
+    "com.rheno911.lamovie.LaMovieProvider"
+  ],
+  "repoId": "rheno911-lamovie"
+}
