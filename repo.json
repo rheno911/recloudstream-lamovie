@@ -1,9 +1,8 @@
 {
-  "name": "Rheno LaMovie",
-  "description": "la.movie - Spanish movies via Vimeo",
-  "icon": "https://via.placeholder.com/128?text=LM",
-  "providerClasses": [
-    "com.rheno911.lamovie.LaMovieProvider"
-  ],
-  "repoId": "rheno911-lamovie"
+  "name": "LaMovie",
+  "icon": "https://via.placeholder.com/128/FF6B6B/FFFFFF?text=LM",
+  "description": "Spanish movies & series from https://la.movie (Vimeo HLS)",
+  "author": ["rheno911"],
+  "repoId": "rheno911-lamovie",
+  "githubRelease": "rheno911/recloudstream-lamovie@master"
 }
